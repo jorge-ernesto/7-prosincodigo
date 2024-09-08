@@ -1,0 +1,6 @@
+---- Notas ----
+
+---- Modulos instalados ----
+
+https://pypi.org/project/pyttsx3/
+https://pypi.org/project/wikipedia/
