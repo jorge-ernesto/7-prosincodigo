@@ -1,0 +1,11 @@
+---- Notas ----
+
+---- Video ----
+
+Creando asistente de voz que habla lo que dicen las búsquedas en Python
+https://www.tiktok.com/@prosincodigo/video/7159312226006912262
+
+---- Modulos instalados ----
+
+https://pypi.org/project/pyttsx3/
+https://pypi.org/project/wikipedia/
